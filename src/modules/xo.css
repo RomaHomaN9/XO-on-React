@@ -1,0 +1,12 @@
+.xo-cell {
+	width: 40px;
+	height: 40px;
+	text-align: center;
+}
+.reset_button {
+	width: 75px;
+	height: 83px;
+	position: absolute;
+	top: 297px;
+	left: 65px;
+}
